@@ -1,1 +1,5 @@
 # Sales_Analytics_and_Finance_Report_using_Excel
+
+📊 Leveraging the power of Excel, I utilized Power Query for data cleaning and transformation, merging tables for comprehensive insights, and implemented Power Pivot for robust data modeling and creating essential measures. To enhance the visual impact, I incorporated conditional formatting techniques for visually engaging representations.
+💡 The heart of the project revolved around analyzing net sales figures and evaluating the variance between targeted and actual net sales across various dimensions: years, customers, countries, products, and divisions. Calculating COGS, gross margin, and gross margin percentage provided crucial insights into the financial health of the company.
+📈 On the financial side, I carefully prepared reports depicting profit and loss by fiscal year and month, facilitating a granular understanding of financial performance. Growth percentages were carefully calculated to provide insights into quarterly and monthly trends.
